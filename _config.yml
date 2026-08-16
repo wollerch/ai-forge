@@ -1,0 +1,8 @@
+title: AI Forge
+description: Personal AI Forge for reusable blueprints and agentic resources
+theme: minima
+markdown: kramdown
+
+collections:
+  pages:
+    output: true
