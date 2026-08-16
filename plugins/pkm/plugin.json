@@ -1,0 +1,15 @@
+{
+  "name": "pkm",
+  "description": "Personal Knowledge Management plugin",
+  "version": "1.0.0",
+  "author": {
+    "name": "Christoph Woller",
+    "url": "https://github.com/wollerch"
+  },
+  "license": "MIT",
+  "keywords": ["pkm", "socratic"],
+  "agents": "agents/",
+  "skills": "skills/",
+  "hooks": "hooks.json",
+  "mcpServers": ".mcp.json"
+}
